@@ -1,0 +1,190 @@
+[
+  {
+    "question": "What is an engine?",
+    "answer": "An engine is a device which transforms one form of energy into another form. Most engines convert Thermal Energy into Mechanical Work and are therefore called Heat Engines."
+  },
+  {
+    "question": "What is a heat engine?",
+    "answer": "A heat engine is any device that is capable of converting Thermal energy (heating) into Mechanical energy (work). It is a device which transforms one form of energy into another form, and most engines convert Thermal Energy into Mechanical Work."
+  },
+  {
+    "question": "List the four characteristics of heat engines.",
+    "answer": "1. They receive heat from a high-temperature source.\n2. They convert part of this heat to work (usually in the form of a rotating shaft).\n3. They reject the remaining waste heat to a low-temperature sink.\n4. They operate on a cycle."
+  },
+  {
+    "question": "What does the Kelvin\u2013Planck statement say?",
+    "answer": "It is impossible for any device that operates on a cycle to receive heat from a single reservoir and produce a net amount of work."
+  },
+  {
+    "question": "Why are IC engines not true thermodynamic cycles?",
+    "answer": "IC engines are not true thermodynamic cycles because the working fluid (the combustion gases) does not undergo a complete cycle, instead, the exhaust gases are purged without being cooled to the initial temperature."
+  },
+  {
+    "question": "Define internal combustion engine.",
+    "answer": "The internal combustion engine (IC) is a heat engine that converts chemical energy in a fuel into Mechanical energy."
+  },
+  {
+    "question": "Where does combustion occur in an IC engine?",
+    "answer": "In a combustion chamber in the portion of the engine which converts heat to mechanical energy."
+  },
+  {
+    "question": "Who invented the first practical IC engine?",
+    "answer": "J.J.E. Lenoir."
+  },
+  {
+    "question": "What type of engine did Lenoir develop?",
+    "answer": "Single cylinder two stroke IC Engine."
+  },
+  {
+    "question": "What improvement did the Otto-Langen engine bring?",
+    "answer": "The Otto-Langen engine improved efficiency to about 11%."
+  },
+  {
+    "question": "What are the four strokes of Otto cycle?",
+    "answer": "The four strokes of the Otto cycle are: \n1. an intake stroke, \n2. a compression stroke before ignition, \n3. an expansion or power stroke, \n4. an exhaust stroke."
+  },
+  {
+    "question": "When did Otto\u2019s four-stroke engine first run?",
+    "answer": "1876."
+  },
+  {
+    "question": "Who introduced gasoline engines using liquid fuel?",
+    "answer": "Karl Benz and Gottlieb Daimler."
+  },
+  {
+    "question": "Who developed the first two-stroke engine?",
+    "answer": "Sir Dugald Clark."
+  },
+  {
+    "question": "Why was the two-stroke engine invented?",
+    "answer": "The two-stroke engine was invented to reduce or even replace the complicated valve mechanism and to perform the same power as the Otto engine with less number of strokes than four strokes."
+  },
+  {
+    "question": "Who invented the diesel engine?",
+    "answer": "Rudolf Diesel."
+  },
+  {
+    "question": "How does diesel ignition occur?",
+    "answer": "The combustion process in a CI (Compression Ignition) engine, such as a diesel engine, starts when the air-fuel mixture self-ignites due to high temperature in the combustion chamber caused by high compression."
+  },
+  {
+    "question": "What are advantages of Wankel engine?",
+    "answer": "The advantages of the Wankel engine are: \n1. High power output\n2. More reliable\n3. Simple structure and less moving parts\n4. Lower production cost\n5. Lighter and higher speed."
+  },
+  {
+    "question": "Mention two disadvantages of Wankel engine.",
+    "answer": "Two disadvantages of the Wankel engine are: \n1. Air-fuel mixing problem\n2. High hydrocarbon emissions"
+  },
+  {
+    "question": "Name five technologies improving IC engines.",
+    "answer": "The five technologies that make IC engines better are:\n1. Clean diesel\n2. Direct injection\n3. Cylinder deactivation\n4. Turbocharger\n5. Variable valve timing"
+  },
+  {
+    "question": "List current engine challenges.",
+    "answer": "The current engine challenges are:\n1. Limited energy supply\n2. Global warming effect\n3. Environmental protection (Less pollutant emissions)"
+  },
+  {
+    "question": "List applications of IC engines.",
+    "answer": "Based on the provided context, the applications of IC engines are:\n1. Automotive\n2. Locomotive\n3. Light Aircraft\n4. Marine\n5. Power Generation\n6. Agricultural\n7. Earthmoving\n8. Home Use\n9. Others"
+  },
+  {
+    "question": "Define inline engine.",
+    "answer": "Unable to answer from the provided documents."
+  },
+  {
+    "question": "What is a V engine?",
+    "answer": "A V engine has two banks of cylinders at an angle with each other along a single crankshaft, with the angle between the banks of cylinders ranging from 15\u00b0 to 120\u00b0, commonly 60\u00b0-90\u00b0, and typically having an even number of cylinders from 2 to 20 or more."
+  },
+  {
+    "question": "What is an opposed cylinder engine?",
+    "answer": "An opposed cylinder engine has two banks of cylinders opposite each other on a single crankshaft, also known as a V engine with a 180\u00b0V, and is often called a flat engine."
+  },
+  {
+    "question": "Define radial engine.",
+    "answer": "A radial engine is an engine with pistons positioned in a circular plane around the central crankshaft, where the connecting rods of the pistons are connected to a master rod which, in turn, is connected to the crankshaft, and it always has an odd number of cylinders ranging from 3 to 13 or more."
+  },
+  {
+    "question": "Name operating cycles.",
+    "answer": "Four-Stroke Cycle and Two-Stroke Cycle."
+  },
+  {
+    "question": "Difference between supercharger and turbocharger.",
+    "answer": "A supercharger increases intake air pressure with a compressor driven off the engine crankshaft, whereas a turbocharger increases intake air pressure with a turbine-compressor driven by the engine exhaust gases."
+  },
+  {
+    "question": "List valve designs.",
+    "answer": "1. Poppet Valve\n2. Rotary Valve\n3. Reed Valve\n4. Piston Controlled Porting"
+  },
+  {
+    "question": "What is SI engine?",
+    "answer": "Spark Ignition (SI) engine, which starts the combustion process in each cycle by use of a spark plug."
+  },
+  {
+    "question": "What is CI engine?",
+    "answer": "A CI engine is a Compression Ignition engine, where the combustion process starts when the air-fuel mixture self-ignites due to high temperature in the combustion chamber caused by high compression."
+  },
+  {
+    "question": "Difference between two-stroke and four-stroke.",
+    "answer": "A two-stroke cycle has two piston movements over one revolution for each cycle, while a four-stroke cycle experiences four piston movements over two engine revolutions of each cycle."
+  },
+  {
+    "question": "Name cooling methods.",
+    "answer": "1. Direct Air-cooling\n2. Indirect Air-cooling (Liquid Cooling)\n3. Low Heat Rejection (Semi-adiabatic) engine."
+  },
+  {
+    "question": "List major engine parts.",
+    "answer": "The major engine parts are:\n1. Cylinder Block\n2. Cylinder Head\n3. Crankshaft\n4. Camshaft\n5. Timing Chain\n6. Bearing shell\n7. Oil pump\n8. Water pump\n9. Fly wheel\n10. Valves\n11. Valve Springs\n12. Pistons\n13. Connecting Rod\n14. Piston Ring\n15. Cylinder sleeve\n16. Inlet manifold\n17. Exhaust manifold\n18. Rocker Arm"
+  },
+  {
+    "question": "What is cylinder bore?",
+    "answer": "The inside diameter of the cylinder, measured in mm."
+  },
+  {
+    "question": "Define stroke.",
+    "answer": "The stroke is the linear distance, measured parallel to the axis of the cylinder, between the extreme upper and lower positions of the piston, measured in mm."
+  },
+  {
+    "question": "What is TDC?",
+    "answer": "Top Dead Center (TDC) or Inner Dead Center (IDC) - when the piston is at its farthest distance from the crankshaft."
+  },
+  {
+    "question": "What is BDC?",
+    "answer": "Bottom Dead Center (BDC) or Outer Dead Center (ODC) is when the piston is nearest to the crankshaft."
+  },
+  {
+    "question": "Define displacement volume.",
+    "answer": "The nominal volume swept by the working piston when traveling from one dead center to the other, given by Vd = A \u0425 L = \u03c0/4(B^2L)."
+  },
+  {
+    "question": "What is clearance volume?",
+    "answer": "The nominal volume of the combustion chamber above the piston when it is at TDC (Top Dead Center)."
+  },
+  {
+    "question": "Define compression ratio.",
+    "answer": "The compression ratio (r) is the ratio of the total cylinder volume when the piston is at the BDC, to the clearance volume (Vc)."
+  },
+  {
+    "question": "Purpose of flywheel.",
+    "answer": "The purpose of the flywheel is to store energy and furnish a large angular momentum that keeps the engine rotating between power strokes and smoothes out engine operation."
+  },
+  {
+    "question": "Role of connecting rod.",
+    "answer": "The role of the connecting rod is to connect the piston to the crankshaft and convert reciprocating piston motion to rotary motion at the crankshaft. It works with the crankshaft to change the reciprocating motion of the piston to rotary motion."
+  },
+  {
+    "question": "Function of camshaft.",
+    "answer": "The camshaft is used to time the addition of intake and exhaust valves, and it operates valves via pushrods and rocker arms. It is driven by a gear (or chain) from the crankshaft with a 2:1 crankshaft to camshaft gear ratio."
+  },
+  {
+    "question": "What are piston rings used for?",
+    "answer": "Piston rings are used to transfer heat from piston to cylinder, seal cylinder, and distribute lube oil. They include an oil ring and an air ring."
+  },
+  {
+    "question": "What is crankcase?",
+    "answer": "The crankcase is that part of the engine block below the cylinders, which supports and encloses the crankshaft and provides a reservoir for the lubricating oil."
+  },
+  {
+    "question": "What is valve train?",
+    "answer": "Valve train refers to the moving components that control the flow into and out of the combustion chamber, and it includes components such as the camshaft, valve tappets, push rods, rocker arm, valves, valve springs, and valve rotators, which operate to time the addition of intake and exhaust valves."
+  }
+]
